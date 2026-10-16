@@ -1,0 +1,27 @@
+Start testing: Oct 16 22:37 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: aes_vectors
+1/1 Test: aes_vectors
+Command: "C:/Users/nhutt/Documents/Crypto/Lab02/build-gcc-attn/aes_tests.exe"
+Directory: C:/Users/nhutt/Documents/Crypto/Lab02/build-gcc-attn
+"aes_vectors" start time: Oct 16 22:37 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+PASS AES-128
+PASS ECB
+PASS CBC
+PASS CFB128
+PASS CFB8
+PASS OFB
+PASS CTR
+PASS CCM
+ALL 8 VECTORS PASS
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"aes_vectors" end time: Oct 16 22:37 SE Asia Standard Time
+"aes_vectors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 16 22:37 SE Asia Standard Time
