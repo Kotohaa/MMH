@@ -11,7 +11,6 @@
 #include <sstream>
 #include <algorithm>
 
-// Nhúng trực tiếp file AES.cpp hoặc gọi class AES có sẵn trong project
 #include "AES.cpp"
 
 using namespace std;
