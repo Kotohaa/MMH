@@ -1,2 +1,0 @@
-C:\msys64\mingw64\bin\ar.exe qc libaes_modes_static.a CMakeFiles/aes_modes_static.dir/src/aes.cpp.obj CMakeFiles/aes_modes_static.dir/src/sp800_38a.cpp.obj CMakeFiles/aes_modes_static.dir/src/sp800_38c.cpp.obj
-C:\msys64\mingw64\bin\ranlib.exe libaes_modes_static.a

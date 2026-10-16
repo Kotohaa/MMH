@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\aes_modes_shared.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\aes_modes_shared.dir/objects.a @CMakeFiles\aes_modes_shared.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -O3 -DNDEBUG -shared -o libaes_modes.dll -Wl,--out-implib,libaes_modes.dll.a -Wl,--major-image-version,3,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\aes_modes_shared.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\aes_modes_shared.dir\linkLibs.rsp
